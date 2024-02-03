@@ -1,0 +1,1 @@
+g++ -o your_program.exe your_program.cpp -static-libgcc -static-libstdc++
